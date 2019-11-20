@@ -1,22 +1,29 @@
 .App {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
+ 
+p{
+  text-align: justify;
+  font-size: 13px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+i{
+  cursor:pointer;
+  font-size: 30px;
+  color: #368FD8;
 }
 
-.App-link {
-  color: #09d3ac;
+.section{
+  padding: 5px;
+}
+
+.order{
+  padding: 20px;
+}
+
+.vote {
+  font-family: 'Arimo', sans-serif;
+  text-align: center;
+  user-select: none;
+  font-weight: 600;
 }
