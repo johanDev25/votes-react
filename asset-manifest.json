@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/votes-react/static/css/main.ef388e7a.chunk.css",
+    "main.js": "/votes-react/static/js/main.16c479f2.chunk.js",
+    "main.js.map": "/votes-react/static/js/main.16c479f2.chunk.js.map",
+    "runtime-main.js": "/votes-react/static/js/runtime-main.02d89dec.js",
+    "runtime-main.js.map": "/votes-react/static/js/runtime-main.02d89dec.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/votes-react/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.f036985a.chunk.js": "/votes-react/static/js/2.f036985a.chunk.js",
+    "static/js/2.f036985a.chunk.js.map": "/votes-react/static/js/2.f036985a.chunk.js.map",
+    "index.html": "/votes-react/index.html",
+    "precache-manifest.d5c3445bf415c2a9b8fa69c2c19ea0bb.js": "/votes-react/precache-manifest.d5c3445bf415c2a9b8fa69c2c19ea0bb.js",
+    "service-worker.js": "/votes-react/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/votes-react/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.ef388e7a.chunk.css.map": "/votes-react/static/css/main.ef388e7a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02d89dec.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.f036985a.chunk.js",
+    "static/css/main.ef388e7a.chunk.css",
+    "static/js/main.16c479f2.chunk.js"
+  ]
+}
